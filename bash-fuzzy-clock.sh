@@ -5,8 +5,8 @@
 export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=bash-fuzzy-clock
 
-hr=($(date '+%_H'))
-min=10#$(date '+%M')
+read -r hr min <<< "$(date '+%_H %M')"
+min=10#$min
 nearly=$"nearly"
 oclock=($"o'clock")
 
