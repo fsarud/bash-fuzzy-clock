@@ -1,4 +1,4 @@
-bashfuzzyclock
+bash-fuzzy-clock
 ==============
 
 bash-fuzzy-clock is a natural language or "fuzzy" clock script, written in Bash. Use it in anything that accepts script output (like Conky, or i3bar, or swaybar or...) as a desktop-agnostic fuzzy clock. Translated to six languages.
