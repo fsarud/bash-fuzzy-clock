@@ -100,7 +100,7 @@ msgid "twenty-five past"
 msgstr "y veinticinco"
 
 msgid "twenty-five to"
-msgstr "menos vienticinco"
+msgstr "menos veinticinco"
 
 msgid "twenty to"
 msgstr "menos veinte"
